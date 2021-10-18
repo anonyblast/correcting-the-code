@@ -1,3 +1,9 @@
+/**
+ * Challenge 03 - Correcting the code
+ * 
+ * author : anonyblast [Gustavo Iafelix]
+ */
+
 const express = require("express");
 
 const { v4: uuid } = require("uuid");
